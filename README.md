@@ -1,6 +1,6 @@
 # Software-process-and-tools
 
-软件过程与工具Github操作练习，主程序在branch B1
+软件过程与工具Github操作练习，主程序在branch B1，进入src文件夹即可运行三个版本各自的程序
 
 使用java8的极简五子棋小游戏
 
