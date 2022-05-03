@@ -2,7 +2,7 @@
 
 软件过程与工具Github操作练习，主程序在branch B1
 
-使用java8的五子棋小游戏
+使用java8的极简五子棋小游戏
 
 v1.基础版本
 ![image](https://github.com/Polarisooo/Software-process-and-tools/blob/B1/pictures/v1.png)
